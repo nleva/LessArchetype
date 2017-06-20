@@ -17,5 +17,14 @@
 		<requiredProperty key="module">
 			<defaultValue>Style</defaultValue>
 		</requiredProperty>
+		<requiredProperty key="superGroupId">
+			<defaultValue/>
+		</requiredProperty>
+		<requiredProperty key="superArtifactId">
+			<defaultValue/>
+		</requiredProperty>
+		<requiredProperty key="superVersion">
+			<defaultValue/>
+		</requiredProperty>
 	</requiredProperties>
 </archetype-descriptor>

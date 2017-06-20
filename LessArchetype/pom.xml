@@ -6,8 +6,8 @@
 		<artifactId>LibsManagement</artifactId>
 		<version>0.1</version>
 	</parent>
-	<groupId>ru.sendto.example</groupId>
-	<artifactId>less-plugin-archetype</artifactId>
+	<groupId>ru.send-to.archetype</groupId>
+	<artifactId>less-plugin-javaee7</artifactId>
 	<version>0.0.2-SNAPSHOT</version>
 	<packaging>maven-archetype</packaging>
 
